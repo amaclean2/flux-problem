@@ -1,0 +1,23 @@
+{
+  "name": "m-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "flux-sdk-browser": "^0.4.8",
+    "flux-sdk-helpers": "^0.1.1",
+    "jquery": "^3.2.1",
+    "proptypes": "^1.0.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
